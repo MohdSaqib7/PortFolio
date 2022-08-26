@@ -211,7 +211,8 @@ section .title span::after{
   transform: translateX(-50%);
 }
 .about .about-details .left{
-  width: 45%;
+  width: 30%;
+  height: 50%;
 }
 .about .left img{
   height: 400px;
@@ -255,7 +256,7 @@ section .button button:hover{
 
  /* My project(old Skills) CSS */
  .skills{
-   background: #F0F8FF;
+   background: #eef3f7;
  }
  .skills .content{
    padding: 40px 0;
@@ -275,7 +276,7 @@ section .button button:hover{
 .skills .skills-details .experience{
   display: flex;
   align-items: center;
-  margin: 0 10px;
+  margin: 0 8px;
 }
 .skills-details .experience .num{
   color: #e6c670;
