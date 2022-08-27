@@ -218,7 +218,8 @@ section .title span::after{
   height: 400px;
   width: 400px;
   object-fit: cover;
-  border-radius: 12px;
+  border: 10px solid rgb(222, 212, 193);
+  border-radius: 200px;
 }
 .about-details .right{
   width: 55%;
